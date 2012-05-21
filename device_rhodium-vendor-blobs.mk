@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/rhodium/proprietary/libGLES_qcom.so:system/lib/egl/libGLES_qcom.so \
 	vendor/htc/rhodium/proprietary/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/htc/rhodium/proprietary/libgps.so:system/lib/libgps.so \
-    vendor/htc/rhodium/proprietary/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
     vendor/htc/rhodium/proprietary/libhtc_ril.so:system/lib/libhtc_ril.so \
     vendor/htc/rhodium/proprietary/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/htc/rhodium/proprietary/liboemcamera.so:system/lib/liboemcamera.so \
